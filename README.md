@@ -1,14 +1,11 @@
+
 <h1 align="center">Oi, eu sou a Luiza Mioli! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=QA+Engineer+apaixonada+por+qualidade;Automatizando+testes+com+Cypress+e+Seleniumrendendo+e+compartilhando+conhecimento
-</p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=QA+Engineer+com+3.5+anos+de+experiência;Automatizando+testes+com+Cypress+e+Selenium;Apaixonada+por+qualidade+e+aprendizado+contínuo" alt="Typinge mim
 
----
+Sou **QA Engineer** com **3 anos e meio de experiência** em testes manuais e automatizados para aplicações **web e mobile**. Trabalho com **qualidade de software** desde o desenvolvimento até a entrega ao cliente, e estudo **Análise e Desenvolvimento de Sistemas**.
 
-### 💻 Sobre mim
-
-Sou **QA Engineer** com experiência em testes manuais e automatizados para aplicações **web e mobile**.
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
@@ -17,19 +14,6 @@ Sou **QA Engineer** com experiência em testes manuais e automatizados para apli
 - **Automação:** `Cypress` · `Selenium` · `Robot Framework`
 - **Ferramentas:** `Jira` · `Azure DevOps` · `Git` · `GitHub` · `Bitbucket` · `Jenkins` · `Postman`
 - **Metodologias:** `Scrum` · `Lean`
-
----
-
-### 🚀 Projetos em destaque
-
-📌 [**desafio-api-cypress**](https://o de testes com Cypress para APIs REST.
-
-📌 [**projeto-saucedemo**](https://github.com/luizamioli/projeto-son para o site SauceDemo.
-
-📌 [**availi-med*  
-Site desenvolvido com HTML, CSS e JavaScript para projeto acadêmico.
-
-📌 [**dio-lab-open-source**](https://github.com/luizamioli/dio-lab-open-sourcenovation One.
 
 ---
 
@@ -42,11 +26,10 @@ Estou sempre buscando aprender mais sobre **desenvolvimento e qualidade de softw
 ### 📫 Vamos conversar?
 
 Você pode me encontrar por aqui:
-- 💼 LinkedIn
-- 📧 luiza.seuemail@email.com *(substitua pelo seu e-mail real)*
+- 💼 [LinkedIn](https://www.linkedinail.com *(substitua pelo seu e-mail real)*
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luizamiolis=true&theme=radical
+  https://github-readme-stats.vercel.app/api?username=luizamioli&show_icons=true&theme=radical
 </p>
