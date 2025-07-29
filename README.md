@@ -1,45 +1,45 @@
 <h1 align="center">Oi, eu sou a Luiza Mioli! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=QA+Engineer+apaixonada+por+qualidade;Automatizando+testes+com+Cypress+e+Selenium;Sempre+aprendendo+e+compartilhando+conhecimento" alt="Typinge mim
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=QA+Engineer+apaixonada+por+qualidade;Automatizando+testes+com+Cypress+e+Selenium;endendo+e+compartilhando+conhecimento
+</p>
 
-Sou **QA Engineer** com experiência em testes manuais e automatizados para aplicações **web e mobile**. Atualmente trabalho com **qualidade de software** e estudo **Análise e Desenvolvimento de Sistemas**.
-
----
-
-### 🛠️ Tecnologias e Ferramentas
-
-- **Linguagens:** `JavaScript` · `Python` · `TypeScript` · `CSS` · `SQL`
-- **Automação:** `Cypress` · `Selenium` · `Robot Framework`
-- **Ferramentas:** `Jira` · `Azure DevOps` · `Git` · `GitHub` · `Bitbucket` · `Jenkins` · `Postman`
-- **Metodologias:** `Scrum` · `Lean`
+✨ Sou QA Engineer com foco em garantir que tudo funcione direitinho — do clique no botão até a experiência final do usuário.  
+💻 Trabalho com testes manuais e automatizados para aplicações web e mobile.  
+📚 Estudo Análise e Desenvolvimento de Sistemas e estou sempre explorando novas ferramentas e boas práticas.
 
 ---
 
-### 🚀 Projetos em destaque
+### 🛠️ Tecnologias que uso no dia a dia
 
-📌 [**desafio-api-cypress**](https://github.com/luizamioliss para APIs REST.
+- `JavaScript` · `Python` · `TypeScript` · `CSS` · `SQL`
+- `Cypress` · `Selenium` · `Robot Framework`
+- `Jira` · `Azure DevOps` · `Git` · `GitHub` · `Bitbucket` · `Jenkins` · `Postman`
+- `Scrum` · `Lean`
 
-📌 [**projeto-saucedemo**](https://github.com/luizamioli/projeto-saucedra o site SauceDemo.
+---
 
-📌 [**availi-med**](https://github.com/luizTML, CSS e JavaScript para projeto acadêmico.
+### 🚀 Alguns projetos que curti desenvolver
 
-📌 [**dio-lab-open-source**](https://github.com/luto open source da Digital Innovation One.
-
+🔹 **desafio-api-cypress** – Testes automatizados para APIs REST  
+🔹 **projeto-saucedemo** – Testes E2E para o site SauceDemo  
+🔹 **availi-med** – Projeto acadêmico com HTML, CSS e JS  
+🔹 [**io-lab-open-source** – Contribuição para projeto open source da DIO
 ---
 
 ### 🌱 Em constante evolução
 
-Estou sempre buscando aprender mais sobre **desenvolvimento e qualidade de software**, participando de cursos, desafios e projetos colaborativos.
+Gosto de aprender, compartilhar e trocar ideias sobre qualidade, automação e desenvolvimento.  
+Se tiver um projeto legal ou quiser bater um papo sobre QA, bora conversar!
 
 ---
 
-### 📫 Vamos conversar?
+### 📫 Onde me encontrar
 
-Você pode me encontrar por aqui:
-- 💼 [LinkedIn](https://www.linkedinail.com *(substitua pelo seu e-mail real)*
+- 💼 [LinkedIn](https://www.linkedin.com/in/luizue pelo seu e-mail real)*
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luizamioli&show_icons=true&theme=radical"
+  https://github-readme-stats.vercel.app/api?username=luizamioli&show_icons=true&theme=radical
+</p>
